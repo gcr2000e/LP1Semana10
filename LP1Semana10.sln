@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollections\IntCollections.csproj", "{5D4B1B29-0803-4C76-BCE1-9EA954CE9F2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{74097C19-4394-414B-A7FE-A17663149CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{5D4B1B29-0803-4C76-BCE1-9EA954CE9F2F}.Release|x64.Build.0 = Release|Any CPU
 		{5D4B1B29-0803-4C76-BCE1-9EA954CE9F2F}.Release|x86.ActiveCfg = Release|Any CPU
 		{5D4B1B29-0803-4C76-BCE1-9EA954CE9F2F}.Release|x86.Build.0 = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|x64.Build.0 = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Debug|x86.Build.0 = Debug|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|x64.ActiveCfg = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|x64.Build.0 = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|x86.ActiveCfg = Release|Any CPU
+		{74097C19-4394-414B-A7FE-A17663149CD6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
