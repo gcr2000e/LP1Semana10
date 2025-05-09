@@ -28,7 +28,7 @@ namespace CharSets
                         {
                             if (line.Length != 1)
                             {
-                                Console.WriteLine($"Erro: O ficheiro '{filename}' contém uma linha com mais de um caracter.");
+                                Console.WriteLine($"Erro: O ficheiro '{filename}' contém uma linha com mais que um caracter.");
                                 return;
                             }
                             charSet.Add(line[0]);
