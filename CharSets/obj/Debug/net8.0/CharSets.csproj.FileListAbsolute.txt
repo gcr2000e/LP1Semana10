@@ -1,0 +1,15 @@
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\bin\Debug\net8.0\CharSets.exe
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\bin\Debug\net8.0\CharSets.deps.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\bin\Debug\net8.0\CharSets.runtimeconfig.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\bin\Debug\net8.0\CharSets.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\bin\Debug\net8.0\CharSets.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.AssemblyInfoInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.AssemblyInfo.cs
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.csproj.CoreCompileInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.sourcelink.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\refint\CharSets.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\CharSets.genruntimeconfig.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\ULHT-Videojogos\1º Ano\2º Semestre\Linguagens de Programação I\Repos\LP1Semana10\CharSets\obj\Debug\net8.0\ref\CharSets.dll
